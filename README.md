@@ -1,6 +1,6 @@
 # 🎯 Kurumi's Crosshair
 
-![Logo](https://imgur.com/NAQe78r.png)
+![Logo](https://imgur.com/b4c8SL1.png)
 
 A clean, free, and customizable crosshair overlay tool — an alternative to expensive apps like Crosshair X. Designed for gamers who want a minimal but effective aiming overlay.
 
