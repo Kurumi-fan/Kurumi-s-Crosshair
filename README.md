@@ -64,7 +64,7 @@ A new key is generated every **3 days** and shared via our Discord server.
 
 You can get the key in two ways:
 
-* 📌 Check the `#Kurumi's Projects` channel — the key is posted there regularly
+* 📌 Check the `#key` channel — the key is posted there regularly
 * 🤖 Or DM the bot with `!key` to receive it privately
 
 ---
