@@ -78,4 +78,4 @@ More tools coming soon 💜
 
 ## 📥 Download
 
-> [📁 Latest Release on GitHub](https://github.com/Kurumi-fan/Kurumis-Crosshair/releases)
+> [📁 Latest Release on GitHub](https://github.com/Kurumi-fan/Kurumi-s-Crosshair/releases)
