@@ -9,23 +9,38 @@ A clean, free, and customizable crosshair overlay tool — an alternative to exp
 ## 🚀 Features
 
 ### 🖼️ Overlay Crosshair
-- Always-on-top crosshair window
-- Change color and size of the crosshair
-- Customize position manually if needed
-- Runs in **borderless**, transparent mode
-- Invisible to anti-cheat (overlay only)
+
+* Always-on-top crosshair window
+* Change color and size of the crosshair
+* Customize position manually if needed
+* Runs in **borderless**, transparent mode
+* Invisible to anti-cheat (overlay only)
 
 ### 🔐 Key System
-- A valid **activation key** is required
-- Keys are generated via Discord bot and rotate every 3 days
-- Program checks key validity on launch
-- Keys are stored locally, no need to re-enter unless expired
-- Secure comparison system (case-insensitive, format-agnostic)
+
+* A valid **activation key** is required
+* Keys are generated via Discord bot and rotate every 3 days
+* Program checks key validity on launch
+* Keys are stored locally, no need to re-enter unless expired
+* Secure comparison system (case-insensitive, format-agnostic)
 
 ### ⚙️ Settings
-- Lightweight settings window
-- No unnecessary options — focused UI
-- Built with performance in mind
+
+* Lightweight settings window
+* No unnecessary options — focused UI
+* Built with performance in mind
+
+---
+
+## 💾 File Storage
+
+All program data (settings, keys, profiles, etc.) is stored locally in:
+
+```
+C:\Users\<user>\AppData\Roaming\KurumiCrosshair
+```
+
+This ensures a clean installation directory while keeping your preferences safe and persistent.
 
 ---
 
@@ -33,9 +48,9 @@ A clean, free, and customizable crosshair overlay tool — an alternative to exp
 
 Kurumi’s Crosshair runs entirely **offline** after key validation. It does **not**:
 
-- Monitor your keyboard/mouse
-- Track your usage
-- Send any personal data
+* Monitor your keyboard/mouse
+* Track your usage
+* Send any personal data
 
 All it does is draw a crosshair on your screen – nothing more, nothing less.
 
@@ -51,9 +66,9 @@ All it does is draw a crosshair on your screen – nothing more, nothing less.
 
 ## 🧠 Troubleshooting
 
-- ❌ _“Invalid key”_ → Make sure you copy the exact key sent via Discord (watch out for spaces).
-- 🔄 If your key expired, request a new one with `!key` in the Discord.
-- 🎮 Some fullscreen-exclusive games may not show the overlay — use **borderless windowed** mode.
+* ❌ *“Invalid key”* → Make sure you copy the exact key sent via Discord (watch out for spaces).
+* 🔄 If your key expired, request a new one with `!key` in the Discord.
+* 🎮 Some fullscreen-exclusive games may not show the overlay — use **borderless windowed** mode.
 
 ---
 
