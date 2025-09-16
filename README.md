@@ -37,7 +37,7 @@ A clean, free, and customizable crosshair overlay tool — an alternative to exp
 All program data (settings, keys, profiles, etc.) is stored locally in:
 
 ```
-C:\Users\<user>\AppData\Roaming\KurumiCrosshair
+C:\Users\<user>\AppData\Roaming\KurumiProjects
 ```
 
 This ensures a clean installation directory while keeping your preferences safe and persistent.
