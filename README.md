@@ -11,34 +11,31 @@ A clean, free, and customizable crosshair overlay tool — an alternative to exp
 ### 🖼️ Overlay Crosshair
 
 * Always-on-top crosshair window
-* Change color and size of the crosshair
+* Change color, size, and style of the crosshair
 * Customize position manually if needed
 * Runs in **borderless**, transparent mode
 * Invisible to anti-cheat (overlay only)
 
-### 🔐 Key System
+### 🌐 Online Availability Check (New since 1.0.4)
 
-* A valid **activation key** is required
-* Keys are generated via Discord bot and rotate every 3 days
-* Program checks key validity on launch
-* Keys are stored locally, no need to re-enter unless expired
-* Secure comparison system (case-insensitive, format-agnostic)
+* On startup, the app checks if the official GitHub repository still exists.  
+* If the repository is unreachable, the app shows:  
+  `"Program currently offline: repository not reachable."`  
+* This replaces the old **Key System** from earlier versions.
 
 ### ⚙️ Settings
 
 * Lightweight settings window
-* No unnecessary options — focused UI
+* Focused and minimal UI
 * Built with performance in mind
 
 ---
 
 ## 💾 File Storage
 
-All program data (settings, keys, profiles, etc.) is stored locally in:
+All program data (settings, profiles, etc.) is stored locally in:
 
-```
-C:\Users\<user>\AppData\Roaming\KurumiProjects
-```
+C:\Users<user>\AppData\Roaming\KurumiProjects
 
 This ensures a clean installation directory while keeping your preferences safe and persistent.
 
@@ -46,7 +43,7 @@ This ensures a clean installation directory while keeping your preferences safe 
 
 ## 🛡️ Safe & Private
 
-Kurumi’s Crosshair runs entirely **offline** after key validation. It does **not**:
+Kurumi’s Crosshair runs entirely **offline** (after the quick repository check). It does **not**:
 
 * Monitor your keyboard/mouse
 * Track your usage
@@ -58,35 +55,22 @@ All it does is draw a crosshair on your screen – nothing more, nothing less.
 
 ## 📦 How to Use
 
-1. Launch the program.
-2. Enter your key when prompted.
-3. Select your crosshair style and color.
+1. Launch the program.  
+2. Choose your crosshair style and color.  
+3. Enjoy accurate aiming in every game.  
 
 ---
 
 ## 🧠 Troubleshooting
 
-* ❌ *“Invalid key”* → Make sure you copy the exact key sent via Discord (watch out for spaces).
-* 🔄 If your key expired, request a new one with `!key` in the Discord.
-* 🎮 Some fullscreen-exclusive games may not show the overlay — use **borderless windowed** mode.
-
----
-
-## 🧾 Why Key-Based?
-
-This app is completely free — but to avoid abuse, reuploads, or spam, it uses a simple rotating key system.
-A new key is generated every **3 days** and shared via our Discord server.
-
-You can get the key in two ways:
-
-* 📌 Check the `#key` channel — the key is posted there regularly
-* 🤖 Or DM the bot with `!key` to receive it privately
+* ❌ Overlay not visible? → Make sure your game is running in **borderless windowed** mode.  
+* 🎮 Some fullscreen-exclusive games may block overlays.  
 
 ---
 
 ## 👤 Developed by [Kurumi-fan](https://github.com/Kurumi-fan)
 
-Part of the **Kurumi’s Projects** collection.
+Part of the **Kurumi’s Projects** collection.  
 More tools coming soon 💜
 
 ---
